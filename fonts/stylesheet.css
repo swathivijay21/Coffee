@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Bella Stella';
+    src: url('BellaStellaPersonalUse.eot');
+    src: url('BellaStellaPersonalUse.eot?#iefix') format('embedded-opentype'),
+        url('BellaStellaPersonalUse.woff2') format('woff2'),
+        url('BellaStellaPersonalUse.woff') format('woff'),
+        url('BellaStellaPersonalUse.ttf') format('truetype'),
+        url('BellaStellaPersonalUse.svg#BellaStellaPersonalUse') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
